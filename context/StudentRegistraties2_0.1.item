@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="StudentRegistraties2_File" prompt="StudentRegistraties2_File?" promptNeeded="false" type="id_File" value="C:/Users/Computer/Documents/School/StudentRegistraties2.xlsx"/>
+  <contextParameter comment="" name="StudentRegistraties2_ThousandSeparator" prompt="StudentRegistraties2_ThousandSeparator?" promptNeeded="false" type="id_String" value="','"/>
+  <contextParameter comment="" name="StudentRegistraties2_Encoding" prompt="StudentRegistraties2_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+  <contextParameter comment="" name="StudentRegistraties2_LastColumn" prompt="StudentRegistraties2_LastColumn?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter comment="" name="StudentRegistraties2_DecimalSeparator" prompt="StudentRegistraties2_DecimalSeparator?" promptNeeded="false" type="id_String" value="'.'"/>
+  <contextParameter comment="" name="StudentRegistraties2_Header" prompt="StudentRegistraties2_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter comment="" name="StudentRegistraties2_FirstColumn" prompt="StudentRegistraties2_FirstColumn?" promptNeeded="false" type="id_Integer" value="1"/>
+</talendfile:ContextType>
